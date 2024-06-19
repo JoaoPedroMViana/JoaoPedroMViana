@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning systems analysis and development at Unisinos College 
-- 🔭 I'm looking for a job
+- 🔭 Working at Prefeitura Municipal de São Leopoldo
 
 <picture>
 <source 
