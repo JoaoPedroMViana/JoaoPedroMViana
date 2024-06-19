@@ -3,17 +3,7 @@
 - 🌱 I’m currently learning systems analysis and development at Unisinos College 
 - 🔭 Working at Prefeitura Municipal de São Leopoldo
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=JoaoPedroMViana&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=JoaoPedroMViana&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=JoaoPedroMViana&show_icons=true" />
-</picture>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMViana&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img align="center" alt="JP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
