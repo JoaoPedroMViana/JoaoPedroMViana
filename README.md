@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey there 👋
 
-- 🌱 I’m currently learning systems analysis and development at Unisinos College 
-- 🔭 Working at Prefeitura Municipal de São Leopoldo
+- 🎓 Associate Degree of Systems Analysis and Development
+- 🧑‍💻 Working at CIGAM by Senior
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMViana&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
