@@ -3,8 +3,6 @@
 - 🎓 Associate Degree of Systems Analysis and Development
 - 🧑‍💻 Working at CIGAM by Senior
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMViana&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
   <img align="center" alt="JP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="JP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
